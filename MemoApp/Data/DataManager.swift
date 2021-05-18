@@ -36,6 +36,7 @@ class DataManager{
       let newMemo = Memo(context : mainContext) // Memo 는 coredata의 클래스이다.
       newMemo.content = memo
       newMemo.insertDate = Date()
+    
       saveContext()
         fetchMemo()
     }
