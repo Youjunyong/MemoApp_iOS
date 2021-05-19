@@ -41,6 +41,19 @@ class DataManager{
         fetchMemo()
     }
     
+    func delMemo(_ memo: Memo?){
+        if let memo = memo{
+            
+//            let index = memoList.firstIndex(of: memo)
+            
+            mainContext.delete(memo)
+            saveContext()
+            fetchMemo()
+        }
+        
+        
+    }
+    
     
     
     lazy var persistentContainer: NSPersistentContainer = {
