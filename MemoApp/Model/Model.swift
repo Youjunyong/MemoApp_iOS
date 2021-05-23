@@ -10,7 +10,7 @@ import Foundation
 //class Memo {
 //    var content : String
 //    var insertDate : Date
-//    
+//
 //    init(inputContent : String) {
 ////        self.content = inputContent
 //        content = inputContent
@@ -19,14 +19,5 @@ import Foundation
 //    static var exampleList = [
 //        Memo(inputContent: "Input Your Memo"), Memo(inputContent: "Thanks, for using this app 👍")]
 //}
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+
+

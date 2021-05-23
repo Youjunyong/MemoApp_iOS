@@ -18,6 +18,7 @@
 		E17AAC3D264F973A0080B17F /* ComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17AAC3C264F973A0080B17F /* ComposeViewController.swift */; };
 		E17AAC3F264F99310080B17F /* UIViewController+Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17AAC3E264F99310080B17F /* UIViewController+Alert.swift */; };
 		E17AAC41264FA8D50080B17F /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17AAC40264FA8D50080B17F /* DetailViewController.swift */; };
+		E17FEE58265A8EDB00A253BA /* prac.swift in Sources */ = {isa = PBXBuildFile; fileRef = E17FEE57265A8EDB00A253BA /* prac.swift */; };
 		E1E19DD52651094F004F8717 /* MemoApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E1E19DD32651094F004F8717 /* MemoApp.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +36,7 @@
 		E17AAC3C264F973A0080B17F /* ComposeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposeViewController.swift; sourceTree = "<group>"; };
 		E17AAC3E264F99310080B17F /* UIViewController+Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Alert.swift"; sourceTree = "<group>"; };
 		E17AAC40264FA8D50080B17F /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		E17FEE57265A8EDB00A253BA /* prac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prac.swift; sourceTree = "<group>"; };
 		E1E19DD42651094F004F8717 /* MemoApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MemoApp.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -80,6 +82,7 @@
 				E160F5CD26523ACD000D27B3 /* Data */,
 				E17AAC25264F77490080B17F /* SceneDelegate.swift */,
 				E17AAC29264F77490080B17F /* Main.storyboard */,
+				E17FEE57265A8EDB00A253BA /* prac.swift */,
 				E17AAC40264FA8D50080B17F /* DetailViewController.swift */,
 				E17AAC23264F77490080B17F /* AppDelegate.swift */,
 				E17AAC3C264F973A0080B17F /* ComposeViewController.swift */,
@@ -174,6 +177,7 @@
 				E17AAC3D264F973A0080B17F /* ComposeViewController.swift in Sources */,
 				E17AAC39264F858A0080B17F /* Model.swift in Sources */,
 				E17AAC24264F77490080B17F /* AppDelegate.swift in Sources */,
+				E17FEE58265A8EDB00A253BA /* prac.swift in Sources */,
 				E1E19DD52651094F004F8717 /* MemoApp.xcdatamodeld in Sources */,
 				E17AAC3F264F99310080B17F /* UIViewController+Alert.swift in Sources */,
 				E17AAC26264F77490080B17F /* SceneDelegate.swift in Sources */,
