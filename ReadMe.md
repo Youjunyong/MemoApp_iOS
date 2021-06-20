@@ -1,6 +1,16 @@
-# Launch Screen
+# MemoAPP
+
+## 작동 화면
+![메모](https://user-images.githubusercontent.com/46234386/122664859-d0be2800-d1de-11eb-8b3a-0b71ccae6312.gif)
 
 
+
+
+
+
+## 
+
+### Launch Screen
 
 1. Assetes 로 이동해서 launch Screen에 사용될 png 파일을 왼쪽 리스트에 추가한다.
 
