@@ -1,6 +1,6 @@
 # MemoAPP
 
-## 작동 화면
+## 동작 화면
 ![메모](https://user-images.githubusercontent.com/46234386/122664859-d0be2800-d1de-11eb-8b3a-0b71ccae6312.gif)
 
 
